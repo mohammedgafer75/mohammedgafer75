@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohammedgafer75
+- 👋 Hi, I’m Mohammed Gafer
 - 👀 I’m interested in android app development with flutter
 - 🌱 I’m currently learning flutter framework
 - 💞️ I’m looking to collaborate on build abeautiful and a powerful flutter applications
